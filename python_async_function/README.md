@@ -1,4 +1,3 @@
-```html
 <h1 align="center">🐍 Python Async Functions — Concurrency & Await</h1>
 
 <p align="center">
